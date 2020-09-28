@@ -1,15 +1,15 @@
 {
-  "name": "zxbassets-cli",
+  "name": "webpack-assetscli",
   "version": "1.0.0",
-  "description": "",
+  "description": "静态项目webpack自动化配置",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "zxbassets-cli": "index.js"
+    "webpack-assetscli": "index.js"
   },
-  "author": "",
+  "author": "ember",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
@@ -19,5 +19,17 @@
     "inquirer": "^7.3.3",
     "log-symbols": "^4.0.0",
     "ora": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ember7673/webpack-assets-cli.git"
+  },
+  "keywords": [
+    "静态项目多页面webpack配置"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ember7673/webpack-assets-cli/issues"
+  },
+  "homepage": "https://github.com/Ember7673/webpack-assets-cli#readme"
 }
