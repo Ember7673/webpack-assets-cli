@@ -1,6 +1,6 @@
 {
   "name": "webpack-assetscli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "静态项目webpack自动化配置",
   "main": "index.js",
   "scripts": {
